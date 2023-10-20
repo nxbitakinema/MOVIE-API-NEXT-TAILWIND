@@ -1,4 +1,4 @@
-learn from ED ROH - https://www.youtube.com/watch?v=EBCdyQ_HFMo
+learn from CMDev - https://www.youtube.com/playlist?list=PLjPfp4Ph3gBpkaE3JhrEIltB5fHaobHgj
 
 this project use : next.js / tailwind css / api
 
